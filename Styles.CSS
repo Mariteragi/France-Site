@@ -1,0 +1,49 @@
+h1 {
+    color: rgb(54, 36, 155);
+    text-align: center;
+} 
+
+ul {
+border: 5px dashed;
+
+text-align: center;
+list-style: none;
+padding-left: 0%;
+width: 50%;
+margin: auto;
+}
+
+ul li {
+    border: 3px outset;
+    display: inline-block;
+}
+
+img {
+    display: block;
+    width: 50%;
+}
+
+#pic3 {
+
+}
+
+#pic2 {
+margin: auto;
+}
+
+#pic1 {
+margin-left: 50%;
+}
+
+.Facts {
+    margin: auto;
+    }
+
+body {
+    background-color: rgb(116, 147, 150);
+}
+
+p {
+    text-shadow: rgb(255, 255, 255);
+    color: rgb(17, 0, 255);
+}
